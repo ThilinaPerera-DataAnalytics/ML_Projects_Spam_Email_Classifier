@@ -115,10 +115,10 @@ ML_Projects_Spam_Email_Classifier
 ## 🙏 Acknowledgement
 * Lecturer Mr. Akshan Bandara for guidance & Infotech College staff for resources.
 * Dataset
-- **Source:** [Kaggle Spam Email Dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)   
-- **Size:** ~5728 email samples  
-- **Labels:**  
-  - `1` → Spam  | `0` → Not Spam (Ham) 
+  - **Source:** [Kaggle Spam Email Dataset](https://www.kaggle.com/datasets/jackksoncsie/spam-email-dataset)   
+  - **Size:** ~5728 email samples  
+  - **Labels:**  
+    - `1` → Spam  | `0` → Not Spam (Ham) 
 
 ### 👨‍💻 Author
 **Thilina Perera/ Data with TP**
