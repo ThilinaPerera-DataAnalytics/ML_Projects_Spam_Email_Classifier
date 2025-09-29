@@ -42,7 +42,7 @@ Class Imbalance between Spam (1) vs. Not-Spam (0) categories
 
 ## 📂 Repository Structure
 ``` text
-Project_02_Spam_Email_Classifier_Infotech
+ML_Projects_Spam_Email_Classifier
 |
 ├── 1_data/
 │    ├── email.csv
@@ -78,16 +78,22 @@ Project_02_Spam_Email_Classifier_Infotech
 
 ---
 
-## 📈 Model Performance and Evaluation
+## 📈 Model Performance and Evaluation (Both Random Downsampling and SMOTE)
 
-Results.......
+  1. [Test data](4_visualizations\1_test_data)
+  2. [Validation data](4_visualizations\2_validation_data)
+
+```
+- Confusion matrix (TP, TN, FP, FN)
+- Classification Reports (Accuracy, Precision, Recall, F1_Score)
+```
 ---
 
 ## ⚡ Quick Start
 1. Clone the repository  
    ```bash
-   git clone https://github.com/ThilinaPerera-DataAnalytics/Project_02_Spam_Email_Classifier_Infotech.git
-   cd Project_02_Spam_Email_Classifier_Infotech
+   git clone https://github.com/ThilinaPerera-DataAnalytics/ML_Projects_Spam_Email_Classifier.git
+   cd ML_Projects_Spam_Email_Classifier
 2. Install dependencies
     ```bash
     pip install -r requirements.txt
@@ -114,11 +120,12 @@ Results.......
   - `0` → Not Spam (Ham) 
 
 ### 👨‍💻 Author
-**Thilina Perera**
+**Thilina Perera/ Data with TP**
 ```
-📌 Data Science/ Data Analytics | Data Engineering, Machine Learning, Deep Learning, LLM/LMM, NLP, and Automated Data Pipelines Explorer
+📌 Data Science/ Data Analytics
+📌 Machine Learning, Deep Learning, LLM/LMM, NLP, and Automated Data Pipelines Explorer
 ``` 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/thilina-perera-148aa934/) | 💻 [GitHub](https://github.com/ThilinaPerera-DataAnalytics) 
+🔍 [LinkedIn](https://www.linkedin.com/in/thilina-perera-148aa934/) | 🔍 [GitHub](https://github.com/ThilinaPerera-DataAnalytics) | 🔍 [YouTube](https://www.youtube.com/@Data_with_TP)
 
 ### 🏆 License
     This project is licensed under the MIT License – free to use and extend.
